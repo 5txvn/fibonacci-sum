@@ -1,0 +1,20 @@
+{
+  "name": "fibonacci-sum",
+  "version": "1.0.0",
+  "description": "Computes the sum of terms in a fibonacci sequence using the second, second to last, and last term in the sequence",
+  "main": "index.js",
+  "keywords": ["sum", "fibonacci", "sequence", "math"],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/exoticchild/fibonacci-sum.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/exoticchild/fibonacci-sum/issues"
+  },
+  "homepage": "https://github.com/exoticchild/fibonacci-sum#readme"
+}
